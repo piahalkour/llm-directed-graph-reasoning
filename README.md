@@ -17,5 +17,5 @@ It compares the performance of different prompting styles, graph encodings, grap
 
 ## Setup & Requirements
 
-Create a Python environment and install dependencies from requirements.txt
-Insert your Huggingface Token to the script you use
+1. Create a Python environment and install dependencies from requirements.txt.
+2. Insert your Huggingface Token to the script you use.
